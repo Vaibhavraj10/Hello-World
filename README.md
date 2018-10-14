@@ -136,6 +136,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Lisp**
 
+Lisp is the second-oldest high-level programming language after Fortran and has changed a great deal since its early days, and a number of dialects have existed over its history. Today, the most widely known general-purpose Lisp dialects are Common Lisp and Scheme. Lisp was invented by John McCarthy in 1958 while he was at the Massachusetts Institute of Technology (MIT).
+
 - [x] **Lua**
 
 - [x] **Matlab**
@@ -151,6 +153,8 @@ Nim is a systems and applications programming language. Statically typed and com
 OCaml or Objective Caml, is a general purpose programming language with an emphasis on expressiveness and safety.
 
 - [x] **Pascal**
+
+Pascal is a procedural programming language that supports structured programming and data structures to encourage good programming practices. Pascal was originally developed in 1970 by Niklaus Wirth and is named after the famous French mathematician Blaise Pascal. While Pascal is a reliable and efficient programming language, it is mainly used to teach programming techniques. In fact, it is the first language that many programmers learn. 
 
 - [x] **Perl**
 
